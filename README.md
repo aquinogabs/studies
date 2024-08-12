@@ -1,2 +1,2 @@
 # Studies!
-Repositório usado para armazenar todos meus estudos!
+Repository used to store all my studies!
