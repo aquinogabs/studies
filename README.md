@@ -1,2 +1,2 @@
-# treino-tabnews
-Projeto para treinar programação fazendo de fora a fora um projeto do zero!
+# Studies!
+Repositório usado para armazenar todos meus estudos!
